@@ -68,7 +68,7 @@ header .main-title {
 }
 
 .center-column {
-	padding-bottom: 80px;
+	padding-bottom: 140px;
 	box-shadow:
         inset 30px 0 40px -30px #333,
         inset -30px 0 40px -30px #333;
@@ -110,7 +110,7 @@ header .main-title {
 }
 
 .thanks-img {
-	margin-top: 30px;
+	margin-top: 50px;
 }
 
 .twitter-timeline {
