@@ -40,6 +40,7 @@ header .main-title {
 	margin-bottom: 0;
 	font-size: 1.4em;
 	font-weight: 800;
+	text-align: left;
 }
 
 .navbar-toggle-style {
@@ -168,7 +169,7 @@ footer p {
 
 @media (max-width: 767px) {
 	.navigation	ul li a {
-		padding: 8px 0;
+		padding: 8px 5%;
 	}
 	.nav-style {
 		padding: 15px 0;
